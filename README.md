@@ -3,16 +3,16 @@
 <h3>Solved many basic to advance questions of sql on layoffs data which was cleaned earlier in sql</h3>
 
 1.show total layoffs in each industry(sector).<br>
-2.show maximum no layoffs occured in "other" industry.
-3.show maximum percentage and total laid off.
-4.query to find out records with 100 percent layoff.
-5.pivot the table based on level of fund raised from low, moderate and high.
-6.pivot the table based on count of fund raised from low, moderate to high.
-7.adding a column based on extracted year from date column.
-10.showing companies with relation to sum of laid off from maximum to minimum.
-9.finding out data from layst years.
-10.showing running total of total laid off happened every month.
-11.data of companies with sum of layoff every year ordered by maximum layoff.
-12.query the data of the years where five or less than 5 different companies did layoff.
-13.find out the avergage of percentage as per the stage of layoffs.
+2.show maximum no layoffs occured in "other" industry.<br>
+3.show maximum percentage and total laid off.<br>
+4.query to find out records with 100 percent layoff.<br>
+5.pivot the table based on level of fund raised from low, moderate and high.<br>
+6.pivot the table based on count of fund raised from low, moderate to high.<br>
+7.adding a column based on extracted year from date column.<br>
+10.showing companies with relation to sum of laid off from maximum to minimum.<br>
+9.finding out data from layst years.<br>
+10.showing running total of total laid off happened every month.<br>
+11.data of companies with sum of layoff every year ordered by maximum layoff.<br>
+12.query the data of the years where five or less than 5 different companies did layoff.<br>
+13.find out the avergage of percentage as per the stage of layoffs.<br>
 
