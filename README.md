@@ -1,6 +1,7 @@
 <h1>Dive deep into layoffs data with sql </h1>
-<img width="300px"src="https://github.com/kushal-exe/layoffssql/blob/main/pngtree-layoffs-ink-stained-jobs-letterpress-png-image_12571636.png"> </img>
+<img width="600px"src="https://github.com/kushal-exe/layoffssql/blob/main/pngtree-layoffs-ink-stained-jobs-letterpress-png-image_12571636.png"> </img>
 <h3>Solved many basic to advance questions of sql on layoffs data which was cleaned earlier in sql</h3>
+
 1.show total layoffs in each industry(sector).
 2.show maximum no layoffs occured in "other" industry.
 3.show maximum percentage and total laid off.
