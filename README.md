@@ -1,5 +1,5 @@
 <h1>Dive deep into layoffs data with sql </h1>
-<img width="600px"src="https://github.com/kushal-exe/layoffssql/blob/main/pngtree-layoffs-ink-stained-jobs-letterpress-png-image_12571636.png"> </img>
+<img src="https://github.com/kushal-exe/layoffssql/blob/main/pngtree-layoffs-ink-stained-jobs-letterpress-png-image_12571636.png"> </img>
 <h3>Solved many basic to advance questions of sql on layoffs data which was cleaned earlier in sql</h3>
 
 1.show total layoffs in each industry(sector).<br>
@@ -14,5 +14,5 @@
 10.showing running total of total laid off happened every month.<br>
 11.data of companies with sum of layoff every year ordered by maximum layoff.<br>
 12.query the data of the years where five or less than 5 different companies did layoff.<br>
-13.find out the avergage of percentage as per the stage of layoffs.<br>
+13.find out the average of percentage as per the stage of layoffs.<br>
 
