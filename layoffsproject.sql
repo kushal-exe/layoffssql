@@ -95,7 +95,7 @@ group by company,year_of_layoff
 having sum(total_laid_off) is not null
 order by 3 desc;
 
---12.query the data of the years where five or less than 5 different companies did layoff 
+--12.query the data of the years with highest laidoff every year
 
 with cte as (select company ,year_of_layoff, sum(total_laid_off) as laid_off
 from layoff_staging02
